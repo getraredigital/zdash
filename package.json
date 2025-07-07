@@ -1,0 +1,23 @@
+{
+  "name": "zdash",
+  "version": "0.0.1",
+  "description": "A minimal CLI tool that prints Hello World from zDash!",
+  "main": "cli.js",
+  "bin": {
+    "zdash": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "hello",
+    "world",
+    "zdash"
+  ],
+  "author": "Zain Joyce",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
